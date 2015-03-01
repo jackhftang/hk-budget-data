@@ -1,0 +1,20 @@
+#!/bin/sh
+
+for doc in $(cut -d' ' -f1 catalog.txt); do 
+  for year in {2006..2014}; do 
+    [ ! -d by_catalog/$doc ] && mkdir by_catalog/$doc 
+    [ ! -d by_year/$year ] && mkdir by_year/$year
+    
+    lang=chi
+    #lang=eng
+    fileName="${doc}_${lang}_$year.pdf"
+    filePath="pdf/$fileName"
+
+    ## download only if not downloaded 
+    [ ! -f $filePath ] && curl http://www.budget.gov.hk/$year/$lang/pdf/$doc.pdf > $filePath
+    
+    ## symlink
+    ln -fs ../../$filePath by_year/$year/$fileName
+    ln -fs ../../$filePath by_catalog/$doc/$fileName
+  done 
+done
