@@ -20,4 +20,4 @@
      (it will not download files if files already exist)
 
   4. by the way, downloading from gov server is actually 
-     quite fast. =]
+     quite fast (total ~705Mb). =]
