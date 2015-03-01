@@ -1,6 +1,6 @@
 # hk-budget-data
 
-## usage
+## Usage
 
   1. modify the year you want to download
   2. remove lines in catalog.txt if you not want to download
