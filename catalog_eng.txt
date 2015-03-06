@@ -1,0 +1,113 @@
+cwrf-00 | Summary of Payments by Heads
+cwrf-01 | Head 701 - Land Acquisition
+cwrf-02 | Head 702 - Port and Airport Development
+cwrf-03 | Head 703 - Buildings
+cwrf-04 | Head 704 - Drainage
+cwrf-05 | Head 705 - Civil Engineering
+cwrf-06 | Head 706 - Highways
+cwrf-07 | Head 707 - New Towns and Urban Area Development
+cwrf-08 | Head 708 - Capital Subventions and Major Systems and Equipment
+cwrf-09 | Head 709 - Waterworks
+cwrf-10 | Head 710 - Computerisation
+cwrf-11 | Head 711 - Housing
+bond    | Bond Fund
+cif     | Capital Investment Fund
+csprf   | Civil Service Pension Reserve Fund
+disast  | Disaster Relief Fund
+itf     | Innovation and Technology Fund
+land    | Land Fund
+loan    | Loan Fund
+lotter  | Lotteries  Fund
+head001b | Head 1 - Duties
+head002b | Head 2 - General Rates
+head003b | Head 3 - Internal Revenue
+head004b | Head 4 - Motor Vehicle Taxes
+head005b | Head 5 - Fines, Forfeitures and Penalties
+head006b | Head 6 - Royalties  and Concessions
+head007b | Head 7 - Properties  and Investments
+head009b | Head 9 - Loans, Reimbursements, Contributions and Other Receipts
+head010b | Head 10 - Utilities
+head011b | Head 11 - Fees  and Charges
+head021 | Head 21 - Chief Executive's Office
+head022 | Head 22 - Agriculture, Fisheries and Conservation Department
+head023 | Head 23 - Auxiliary Medical Service
+head024 | Head 24 - Audit Commission
+head025 | Head 25 - Architectural Services Department
+head026 | Head 26 - Census and Statistics Department
+head027 | Head 27 - Civil Aid Service
+head028 | Head 28 - Civil Aviation Department
+head030 | Head 30 - Correctional Services Department
+head031 | Head 31 - Customs and Excise Department
+head033 | Head 33 - Civil Engineering and Development Department
+head037 | Head 37 - Department of Health
+head039 | Head 39 - Drainage Services Department
+head042 | Head 42 - Electrical and Mechanical Services Department
+head044 | Head 44 - Environmental Protection Department
+head045 | Head 45 - Fire Services Department
+head046 | Head 46 - General Expenses of the Civil Service
+head047 | Head 47 - Government Secretariat: Office of the Government Chief Information Officer
+head048 | Head 48 - Government Laboratory
+head049 | Head 49 - Food and Environmental Hygiene Department
+head051 | Head 51 - Government Property Agency
+head053 | Head 53 - Government Secretariat: Home Affairs Bureau
+head055 | Head 55 - Government Secretariat: Commerce and Economic Development Bureau (Communications and Technology Branch)
+head059 | Head 59 - Government Logistics Department
+head060 | Head 60 - Highways Department
+head062 | Head 62 - Housing Department
+head063 | Head 63 - Home Affairs Department
+head070 | Head 70 - Immigration  Department
+head072 | Head 72 - Independent Commission Against Corruption
+head074 | Head 74 - Information  Services Department
+head076 | Head 76 - Inland  Revenue Department
+head078 | Head 78 - Intellectual Property Department
+head079 | Head 79 - Invest Hong Kong
+head080 | Head 80 - Judiciary
+head082 | Head 82 - Buildings Department
+head090 | Head 90 - Labour  Department 
+head091 | Head 91 - Lands  Department
+head092 | Head 92 - Department of Justice
+head094 | Head 94 - Legal Aid Department
+head095 | Head 95 - Leisure and Cultural Services Department
+head096 | Head 96 - Government Secretariat: Overseas Economic and Trade Offices
+head100 | Head 100 - Marine Department
+head106 | Head 106 - Miscellaneous Services
+head112 | Head 112 - Legislative  Council Commission
+head114 | Head 114 - Office of The Ombudsman
+head116 | Head 116 - Official Receiver's Office
+head118 | Head 118 - Planning Department
+head120 | Head 120 - Pensions
+head121 | Head 121 - Independent Police Complaints Council
+head122 | Head 122 - Hong Kong Police Force
+head136 | Head 136 - Public Service Commission Secretariat
+head137 | Head 137 - Government Secretariat: Environment Bureau
+head138 | Head 138 - Government Secretariat: Development Bureau (Planning and Lands Branch)
+head139 | Head 139 - Government Secretariat: Food and Health Bureau (Food Branch)
+head140 | Head 140 - Government Secretariat: Food and Health Bureau (Health Branch)
+head141 | Head 141 - Government Secretariat: Labour and Welfare Bureau
+head142 | Head 142 - Government Secretariat: Offices of the Chief Secretary for Administration and the Financial Secretary
+head143 | Head 143 - Government Secretariat: Civil Service Bureau
+head144 | Head 144 - Government Secretariat: Constitutional and Mainland Affairs Bureau
+head147 | Head 147 - Government Secretariat: Financial Services and the Treasury Bureau (The Treasury Branch)
+head148 | Head 148 - Government Secretariat: Financial Services and the Treasury Bureau (Financial Services Branch)
+head151 | Head 151 - Government Secretariat: Security Bureau
+head152 | Head 152 - Government Secretariat: Commerce and Economic Development Bureau (Commerce, Industry and Tourism Branch)
+head155 | Head 155 - Government Secretariat: Innovation and Technology Commission
+head156 | Head 156 - Government Secretariat: Education Bureau
+head158 | Head 158 - Government  Secretariat: Transport and Housing Bureau (Transport Branch)
+head159 | Head 159 - Government Secretariat: Development Bureau (Works Branch)
+head160 | Head 160 - Radio Television Hong Kong
+head162 | Head 162 - Rating and Valuation Department
+head163 | Head 163 - Registration and Electoral Office
+head166 | Head 166 - Government Flying Service
+head168 | Head 168 - Hong Kong Observatory
+head169 | Head 169 - Secretariat, Commissioner on Interception of Communications and Surveillance
+head170 | Head 170 - Social Welfare Department
+head173 | Head 173 - Working Family and Student Financial Assistance Agency
+head174 | Head 174 - Joint  Secretariat for the Advisory Bodies on Civil Service and Judicial Salaries and Conditions of Service
+head180 | Head 180 - Office for Film, Newspaper and Article Administration
+head181 | Head 181 - Trade and Industry Department
+head184 | Head 184 - Transfers to Funds
+head186 | Head 186 - Transport Department
+head188 | Head 188 - Treasury
+head190 | Head 190 - University Grants Committee
+head194 | Head 194 - Water Supplies Department

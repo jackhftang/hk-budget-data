@@ -1,12 +1,13 @@
 #!/bin/sh
 
-for doc in $(cut -d' ' -f1 catalog.txt); do 
+#lang=chi
+lang=eng
+for doc in $(cut -d' ' -f1 catalog_$lang.txt); do 
   for year in {2006..2015}; do 
-    [ ! -d by_catalog/$doc ] && mkdir by_catalog/$doc 
-    [ ! -d by_year/$year ] && mkdir by_year/$year
+
+    [ ! -d by_catalog/$doc ] && mkdir -p $lang/by_catalog/$doc 
+    [ ! -d by_year/$year ]   && mkdir -p $lang/by_year/$year
     
-    lang=chi
-    #lang=eng
     fileName="${doc}_${lang}_$year.pdf"
     filePath="pdf/$fileName"
 
@@ -14,7 +15,7 @@ for doc in $(cut -d' ' -f1 catalog.txt); do
     [ ! -f $filePath ] && curl http://www.budget.gov.hk/$year/$lang/pdf/$doc.pdf > $filePath
     
     ## symlink
-    ln -fs ../../$filePath by_year/$year/$fileName
-    ln -fs ../../$filePath by_catalog/$doc/$fileName
+    ln -fs ../../../$filePath $lang/by_year/$year/$fileName
+    ln -fs ../../../$filePath $lang/by_catalog/$doc/$fileName
   done 
 done
